@@ -1,0 +1,14 @@
+C:\Users\rebek\Documents\Dev\cSharp\DIO_dealgroup\trilha-net-poo-desafio\obj\Debug\net9.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebek\Documents\Dev\cSharp\DIO_dealgroup\trilha-net-poo-desafio\obj\Debug\net9.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\DIO_dealgroup\trilha-net-poo-desafio\obj\Debug\net9.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\rebek\Documents\Dev\cSharp\DIO_dealgroup\trilha-net-poo-desafio\obj\Debug\net9.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\DIO_dealgroup\trilha-net-poo-desafio\bin\Debug\net9.0\DesafioPOO.exe
+C:\Users\rebek\Documents\Dev\cSharp\DIO_dealgroup\trilha-net-poo-desafio\bin\Debug\net9.0\DesafioPOO.deps.json
+C:\Users\rebek\Documents\Dev\cSharp\DIO_dealgroup\trilha-net-poo-desafio\bin\Debug\net9.0\DesafioPOO.runtimeconfig.json
+C:\Users\rebek\Documents\Dev\cSharp\DIO_dealgroup\trilha-net-poo-desafio\bin\Debug\net9.0\DesafioPOO.dll
+C:\Users\rebek\Documents\Dev\cSharp\DIO_dealgroup\trilha-net-poo-desafio\bin\Debug\net9.0\DesafioPOO.pdb
+C:\Users\rebek\Documents\Dev\cSharp\DIO_dealgroup\trilha-net-poo-desafio\obj\Debug\net9.0\DesafioPOO.dll
+C:\Users\rebek\Documents\Dev\cSharp\DIO_dealgroup\trilha-net-poo-desafio\obj\Debug\net9.0\refint\DesafioPOO.dll
+C:\Users\rebek\Documents\Dev\cSharp\DIO_dealgroup\trilha-net-poo-desafio\obj\Debug\net9.0\DesafioPOO.pdb
+C:\Users\rebek\Documents\Dev\cSharp\DIO_dealgroup\trilha-net-poo-desafio\obj\Debug\net9.0\DesafioPOO.genruntimeconfig.cache
+C:\Users\rebek\Documents\Dev\cSharp\DIO_dealgroup\trilha-net-poo-desafio\obj\Debug\net9.0\ref\DesafioPOO.dll
